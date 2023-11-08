@@ -1,0 +1,3 @@
+Do
+msgbox "pranked"
+loop
